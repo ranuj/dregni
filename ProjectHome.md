@@ -1,0 +1,3 @@
+After experimenting a bit with django-schedule and the events app from django-basic-apps, I decided I needed something much simpler for documenting events in a historical context. The focus of dregni is on creating a timeline of events that have already occurred, with only limited support for future events. In particular, there's no support for recurring events.
+
+The application is named after Michael Dregni, noted biographer of our favorite gypsy-jazz guitarist, Django Reinhardt.
